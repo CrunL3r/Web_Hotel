@@ -13,10 +13,14 @@
     width: 50%;
     margin: auto; 
 }
-    
+
+.lw{
+   color: aliceblue 
+}
+
 /* Añade un gris de fondo y un padding en el footer */
 footer {
-    background-color: #f2f2f2;
+    background-color: black;
     padding: 25px;
 }
     
